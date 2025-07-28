@@ -1,8 +1,5 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}%2F{repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id={username}.{repo-name})
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyourreponame&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id={jayanthmani8045}.{jayanthmani8045})
+
 <!--
 **jayanthmani8045/jayanthmani8045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

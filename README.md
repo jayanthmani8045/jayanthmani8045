@@ -49,8 +49,8 @@ Right now, I'm sharpening my C++ and AI skills and recently wrapped up the Blind
       <strong>Web & Cloud</strong>
       <ul>
         <li>React.js</li>
-        <li>FastAPI & Flask</li>
-        <li>SpringBoot</li>
+        <li>FastAPI & Node.js</li>
+        <li>HTML & CSS</li>
         <li>AWS, Azure, GCP</li>
         <li>Docker</li>
       </ul>

@@ -8,7 +8,7 @@ Right now, I'm sharpening my C++ and AI skills and recently wrapped up the Blind
 
 ---
 
-### 🚀 My Top Projects
+### My Top Projects
 
 * **[IMDb Data Insights Engine](https://github.com/jayanthmani8045/IMDbDataInsightEngine.git)**
 * **[Human Face Detection: Traditional CV to Deep Learning](https://github.com/jayanthmani8045/HumanFaceDetectionSystem.git)**
@@ -19,7 +19,7 @@ Right now, I'm sharpening my C++ and AI skills and recently wrapped up the Blind
 
 ---
 
-### 💻 My Tech Stack
+### My Tech Stack
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ Right now, I'm sharpening my C++ and AI skills and recently wrapped up the Blind
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 
 You can reach out to me at **[mani.j@northeastern.edu](mani.j@northeastern.edu)** | [LinkedIn](https://www.linkedin.com/in/jayanth-mani/). Let's connect!
 

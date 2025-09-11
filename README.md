@@ -10,10 +10,11 @@ Right now, I'm sharpening my C++ and AI skills and recently wrapped up the Blind
 
 ### My Top Projects
 
-* **[IMDb Data Insights Engine](https://github.com/jayanthmani8045/IMDbDataInsightEngine.git)**
-* **[Human Face Detection: Traditional CV to Deep Learning](https://github.com/jayanthmani8045/HumanFaceDetectionSystem.git)**
-* **[Food Conservation Portal](https://github.com/jayanthmani8045/Food-Conservation-Portal.git)**
-* **[AI-Powered Talent Analytics Platform](https://github.com/jayanthmani8045/talentsearch.git)**
+* **[MARC - Web Development](https://github.com/jayanthmani8045/MARC.git)**
+* **[Food Conservation Portal - Oracle DB](https://github.com/jayanthmani8045/Food-Conservation-Portal.git)**
+* **[IMDb Data Insights Engine - Machine Learning](https://github.com/jayanthmani8045/IMDbDataInsightEngine.git)**
+* **[Human Face Detection: Traditional CV to Deep Learning - CNN Model](https://github.com/jayanthmani8045/HumanFaceDetectionSystem.git)**
+* **[AI-Powered Talent Analytics Platform - OpenAPI](https://github.com/jayanthmani8045/talentsearch.git)**
 
 
 

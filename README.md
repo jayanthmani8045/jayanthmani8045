@@ -1,91 +1,40 @@
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id={jayanthmani8045}.{jayanthmani8045})
+# 👋 Hi, I’m Jayanth Mani  
 
-### Hi there, I'm Jayanth! 👋
+I’m a **Software Engineer and Cloud Developer** passionate about designing systems that merge **scalable cloud architecture, intelligent automation, and data-driven insights**.  
+I’m currently pursuing my **Master’s in Computer Software Engineering at Northeastern University (Boston)**, where I’m refining my expertise across **full-stack development, distributed systems, and machine learning**.  
 
-I'm a Master's student in Computer Software Engineering at Northeastern University. I'm passionate about building cool things with code, especially with Python.
-
-Right now, I'm sharpening my C++ and AI skills and recently wrapped up the Blind 75 coding challenge. I love turning complex problems into simple, elegant software solutions.
-
----
-
-### My Top Projects
-
-* **[MARC - Web Development](https://github.com/jayanthmani8045/MARC.git)**
-* **[Food Conservation Portal - Oracle DB](https://github.com/jayanthmani8045/Food-Conservation-Portal.git)**
-* **[IMDb Data Insights Engine - Machine Learning](https://github.com/jayanthmani8045/IMDbDataInsightEngine.git)**
-* **[Human Face Detection: Traditional CV to Deep Learning - CNN Model](https://github.com/jayanthmani8045/HumanFaceDetectionSystem.git)**
-* **[AI-Powered Talent Analytics Platform - OpenAPI](https://github.com/jayanthmani8045/talentsearch.git)**
-
-
+My journey started in network engineering at **TCS**, where I automated real-time operations across 70+ global sites with **Python and C++**. Over time, that experience evolved into a love for building **end-to-end solutions — from backend APIs to cloud infrastructure and data pipelines**. Today, I build projects that push boundaries between **software engineering and applied AI**.  
 
 ---
 
-### My Tech Stack
+## ⚙️ Featured Projects  
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Languages</strong>
-      <ul>
-        <li>Python </li>
-        <li>Java</li>
-        <li>C++</li>
-        <li>SQL & PL/SQL</li>
-        <li>JavaScript & TypeScript</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>AI & Data Science</strong>
-      <ul>
-        <li>PyTorch </li>
-        <li>Scikit-learn</li>
-        <li>Pandas & NumPy</li>
-        <li>CUDA Toolkit</li>
-        <li>OpenCV</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Web & Cloud</strong>
-      <ul>
-        <li>React.js</li>
-        <li>FastAPI & Node.js</li>
-        <li>HTML & CSS</li>
-        <li>AWS, Azure, GCP</li>
-        <li>Docker</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>Databases & Platforms</strong>
-      <ul>
-        <li>Oracle</li>
-        <li>MongoDB</li>
-        <li>MySQL</li>
-        <li>Microsoft SQL Server</li>
-        <li>DataBricks & Snowflakes</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🧩 [**HARA Automation Tool**](https://github.com/jayanthmani8045/hara-tool) — Automotive safety analysis assistant using **Python, PySide6, and fuzzy-matching**, reducing ASIL assessment time by 85%.  
+- ☁️ [**Cloud-Native RESTful API**](https://github.com/jayanthmani8045/webapp) — Scalable **Node.js + PostgreSQL + AWS** API with CI/CD and 99.9% uptime.  
+- 🛠️ [**AWS Infrastructure Automation**](https://github.com/jayanthmani8045/tf-aws-infra) — Terraform-based cloud deployment framework cutting provisioning time by 95%.  
+- 🏗️ [**MARC – Management Aligned Relative to Construction**](https://github.com/jayanthmani8045/MARC) — Full-stack **React + Node.js + MongoDB** app optimizing construction workflows.  
+- 🥘 [**Commercial Kitchen Recovery Hub**](https://github.com/jayanthmani8045/Food-Conservation-Portal) — **FastAPI + Oracle + React** platform improving food redistribution efficiency by 20%.  
+- 🎬 [**IMDb Data Insights Tool**](https://github.com/jayanthmani8045/IMDbDataInsightEngine) — **Python + Streamlit** dashboard scraping and visualizing 10K+ movie records.  
+- 📈 [**Travel Reimbursement Predictor**](https://github.com/jayanthmani8045/8090challenge) — **Random Forest-based ML model** automating expense predictions with 80% R² accuracy.  
+- 🧠 [**Human Face Detection System**](https://github.com/jayanthmani8045/HumanFaceDetectionSystem) — Real-time **YOLOv8 + PyTorch** model achieving 95.3% mAP on GPU-accelerated training.  
 
 ---
 
-### How to Reach Me
+## 🧰 Tech Stack & Skills  
 
-You can reach out to me at **[mani.j@northeastern.edu](mani.j@northeastern.edu)** | [LinkedIn](https://www.linkedin.com/in/jayanth-mani/). Let's connect!
+**Languages:** Python, C++, Java, SQL, JavaScript, TypeScript  
+**Frameworks:** React, Node.js, Express, FastAPI, Spring Boot  
+**Cloud & DevOps:** AWS, Terraform, Packer, Docker, CI/CD, CloudWatch  
+**Databases:** PostgreSQL, MongoDB, Oracle, MySQL  
+**AI/ML & Data:** PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Plotly  
+**Other Tools:** GitHub Actions, Streamlit, Qt, Bash/Shell  
 
-<!--
-**jayanthmani8045/jayanthmani8045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌎 I’m **open to full-time and internship opportunities in the U.S. under F1 CPT/OPT authorization**, especially roles in **software engineering, full-stack development, cloud infrastructure, and AI-driven systems**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect — I’m always eager to collaborate on impactful, scalable, and data-centric projects.  
+
+📫 **Email:** [mani.j@northeastern.edu](mailto:mani.j@northeastern.edu)  
+🔗 **LinkedIn:** [linkedin.com/in/jayanth-mani](https://linkedin.com/in/jayanth-mani)  
+💻 **Portfolio:** [github.com/jayanthmani8045](https://github.com/jayanthmani8045)

@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jayanthmani8045&label=Profile%20Views&color=0e75b6&style=flat" alt="jayanthmani8045" />
+</p>
+
 # 👋 Hi, I’m Jayanth Mani  
 
 I’m a **Software Engineer and Cloud Developer** passionate about designing systems that merge **scalable cloud architecture, intelligent automation, and data-driven insights**.  

@@ -20,7 +20,7 @@ My journey started in network engineering at **TCS**, where I automated real-tim
 - 🥘 [**Commercial Kitchen Recovery Hub**](https://github.com/jayanthmani8045/Food-Conservation-Portal) — **FastAPI + Oracle + React** platform improving food redistribution efficiency by 20%
 - 🎬 [**IMDb Data Insights Tool**](https://github.com/jayanthmani8045/IMDbDataInsightEngine) — **Python + Streamlit** dashboard scraping and visualizing 10K+ movie records
 - 📈 [**Travel Reimbursement Predictor**](https://github.com/jayanthmani8045/8090challenge) — **Random Forest-based ML model** automating expense predictions with 80% R² accuracy
-- ⚡ [**Parallel Hand Gesture Recognition**](https://github.com/jayanthmani8045/Parallel-Hand-Gesture-Recognition-Pipeline-HPC-Distributed-ML) — Multi-GPU ResNet50 pipeline on PyTorch DDP/FSDP + Dask, scaling to 4 GPUs at 88% efficiency
+- ⚡ [**Parallel Hand Gesture Recognition**](https://github.com/jayanthmani8045/Parallel-Hand-Gesture-Recognition-Pipeline-HPC-Distributed-ML) — Multi-GPU ResNet50 pipeline on **PyTorch DDP/FSDP + Dask**, scaling to 4 GPUs at 88% efficiency
 
 ---
 

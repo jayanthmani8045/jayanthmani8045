@@ -13,14 +13,14 @@ My journey started in network engineering at **TCS**, where I automated real-tim
 
 ## ⚙️ Featured Projects  
 
-- 🧩 [**HARA Automation Tool**](https://github.com/jayanthmani8045/hara-tool) — Automotive safety analysis assistant using **Python, PySide6, and fuzzy-matching**, reducing ASIL assessment time by 85%.  
-- ☁️ [**Cloud-Native RESTful API**](https://github.com/jayanthmani8045/webapp) — Scalable **Node.js + PostgreSQL + AWS** API with CI/CD and 99.9% uptime.  
-- 🛠️ [**AWS Infrastructure Automation**](https://github.com/jayanthmani8045/tf-aws-infra) — Terraform-based cloud deployment framework cutting provisioning time by 95%.  
-- 🏗️ [**MARC – Management Aligned Relative to Construction**](https://github.com/jayanthmani8045/MARC) — Full-stack **React + Node.js + MongoDB** app optimizing construction workflows.  
-- 🥘 [**Commercial Kitchen Recovery Hub**](https://github.com/jayanthmani8045/Food-Conservation-Portal) — **FastAPI + Oracle + React** platform improving food redistribution efficiency by 20%.  
-- 🎬 [**IMDb Data Insights Tool**](https://github.com/jayanthmani8045/IMDbDataInsightEngine) — **Python + Streamlit** dashboard scraping and visualizing 10K+ movie records.  
-- 📈 [**Travel Reimbursement Predictor**](https://github.com/jayanthmani8045/8090challenge) — **Random Forest-based ML model** automating expense predictions with 80% R² accuracy.  
-- 🧠 [**Human Face Detection System**](https://github.com/jayanthmani8045/HumanFaceDetectionSystem) — Real-time **YOLOv8 + PyTorch** model achieving 95.3% mAP on GPU-accelerated training.  
+- 🧩 [**HARA Automation Tool**](https://github.com/jayanthmani8045/hara-tool) — Automotive safety analysis assistant using **Python, PySide6, and fuzzy-matching**, reducing ASIL assessment time by 85%
+- ☁️ [**Cloud-Native RESTful API**](https://github.com/jayanthmani8045/webapp) — Scalable **Node.js + PostgreSQL + AWS** API with CI/CD and 99.9% uptime
+- 🛠️ [**AWS Infrastructure Automation**](https://github.com/jayanthmani8045/tf-aws-infra) — Terraform-based cloud deployment framework cutting provisioning time by 95%
+- 🏗️ [**MARC – Management Aligned Relative to Construction**](https://github.com/jayanthmani8045/MARC) — Full-stack **React + Node.js + MongoDB** app optimizing construction workflows  
+- 🥘 [**Commercial Kitchen Recovery Hub**](https://github.com/jayanthmani8045/Food-Conservation-Portal) — **FastAPI + Oracle + React** platform improving food redistribution efficiency by 20%
+- 🎬 [**IMDb Data Insights Tool**](https://github.com/jayanthmani8045/IMDbDataInsightEngine) — **Python + Streamlit** dashboard scraping and visualizing 10K+ movie records
+- 📈 [**Travel Reimbursement Predictor**](https://github.com/jayanthmani8045/8090challenge) — **Random Forest-based ML model** automating expense predictions with 80% R² accuracy
+- ⚡ [**Parallel Hand Gesture Recognition**](https://github.com/jayanthmani8045/Parallel-Hand-Gesture-Recognition-Pipeline-HPC-Distributed-ML) — Multi-GPU ResNet50 pipeline on PyTorch DDP/FSDP + Dask, scaling to 4 GPUs at 88% efficiency
 
 ---
 
